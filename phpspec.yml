@@ -1,0 +1,6 @@
+suites:
+  abcham_suite:
+    namespace: Abcham\Support
+    src_path: src
+    spec_path: .
+    spec_prefix: spec
